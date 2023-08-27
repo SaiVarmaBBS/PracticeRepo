@@ -1,2 +1,2 @@
 # PracticeRepo
-This repo is to practice basic commands
+  This is a markdown file for the practice Repository
